@@ -2,4 +2,4 @@
 
 I do programming in various languages and technologies including Typescript, Go, Angular, React and much more. I'm passionate about software engineering, problem solving and I especially love creating all sorts of delightful products, interfaces, and interactions.
 
-If you're interested, you can take a look at some of my <a href="https://jeusto.com/projects">personal projects</a>. If you have a question, or want to collaborate, feel free to <a href="contact@arhun.fr">email</a> me or contact me through one of my social links. ✨
+If you're interested, you can take a look at some of my <a href="https://jeusto.com/projects">personal projects</a>. IIf you have a question, want to collaborate on something, or just want to connect, feel free to <a href="mailto:contact@arhun.fr">email</a> me or reach out through one of my social links. ✨
