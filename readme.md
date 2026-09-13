@@ -1,5 +1,15 @@
-👋 Hey! I'm Arhun Saday, also known as Jeusto. I've been close to a computer since an early age and been passionate about it ever since. I'm currently working as a Full Stack Software Engineer with a focus on DevOps, building and maintaining web and mobile applications while managing cloud infrastructure and container orchestration with Kubernetes.
+### Hi there, I'm Arhun 👋
 
-I do programming in various languages and technologies including Typescript, Go, Angular, React and much more. I'm passionate about software engineering, problem solving and I especially love creating all sorts of delightful products, interfaces, and interactions.
+I currently work at CGI France, where I take customer-facing products end to end: the interface, the API behind it, the cluster it runs on, and increasingly the AI in the middle.
 
-If you're interested, you can take a look at some of my <a href="https://jeusto.com/projects">personal projects</a>. IIf you have a question, want to collaborate on something, or just want to connect, feel free to <a href="mailto:contact@arhun.fr">email</a> me or reach out through one of my social links. ✨
+In practice that's React and React Native at one end, Node, Postgres and Redis in the middle, Kubernetes and Terraform underneath, and LangGraph where it earns its place.
+
+On my own time I build the tools I wish existed, with the delightful interfaces and interactions I'd want to use myself. Take a look at some of them on my website and get in touch if you have a question or want to collaborate.
+
+🔗 Website : [arhun.fr](https://www.arhun.fr)
+<br/>
+📨 Email : [contact@arhun.fr](mailto:contact@arhun.fr)
+<br/>
+🐦 Twitter : [@arhunsaday](https://twitter.com/arhunsaday)
+<br/>
+💼 LinkedIn : [@arhunsaday](https://www.linkedin.com/in/arhunsaday)
